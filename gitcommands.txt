@@ -1,0 +1,17 @@
+git status
+git add .
+git rm --cached filename
+git commit -m "you message"
+git restore filename
+
+git rm --cached filename
+git commit -m "you message"
+git restore filename
+
+git rm --cached filename
+git commit -m "you message"
+git restore filename
+
+git rm --cached filename
+git commit -m "you message"
+git restore filename
